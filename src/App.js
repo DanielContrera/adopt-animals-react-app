@@ -68,7 +68,7 @@ class App extends React.Component {
       },
       {
         id: 5,
-        name: 'Rex',
+        name: 'Rexs',
         description: 'Adulto. Tamaño grande.',
         image: 'assets/perro2.jpg',
         tipo: 'Gato',
